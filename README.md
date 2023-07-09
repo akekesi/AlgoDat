@@ -8,4 +8,4 @@
 - task to be solved/completed
 ## Authors
 - Attila Kekesi
-- Team of AlgoDat (For more information, see the respective scripts)
+- Team of AlgoDat (for more information, see the respective scripts)
