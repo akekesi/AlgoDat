@@ -1,0 +1,21 @@
+dat-sose23,  12.06.2023, 02:30:20, 98ec3ccbd2d86d24617a094487aca3b682776ba7
+Korrektur Blatt 7
+
+Aufgabe 3.1
+	Funktionieren die get- und set-Methode für die Koordinaten?: 5/5
+Total points for Aufgabe 3.1: 5/5
+
+Aufgabe 3.3
+	Funktioniert die Berechung der Cluster für vorgegebene Clusteranzahl richtig?: 30/30
+Total points for Aufgabe 3.3: 30/30
+
+Aufgabe 3.4
+	Funktioniert die Berechung des Variationskoeffizienten richtig?: 10/10
+	Funktioniert die Berechung der Cluster für vorgegebenen threshold richtig?: 35/35
+Total points for Aufgabe 3.4: 45/45
+
+Aufgabe 3.5
+	Funktioniert die Validierung für den IRIS Datensatz?: 20/20
+Total points for Aufgabe 3.5: 20/20
+
+Total points: 100/100
