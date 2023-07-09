@@ -1,8 +1,0 @@
-dat-sose23,  28.04.2023, 00:23:49, 9b03c7c8398644077916d7b89564031f4b2c7208
-Korrektur Blatt 0
-
-Aufgabe 3.6
-	Test, ob Abgaben.txt ist vorhanden: passed
-Total points for Aufgabe 3.6: passed
-
-Total points: passed
